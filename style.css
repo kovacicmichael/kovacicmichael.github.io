@@ -1,0 +1,26 @@
+body{background-color: #efeee7;
+margin: 0;
+padding: 0;
+font-family: "Georgia", "Times New Roman", Times, Serif;
+font-size: 18px;
+line-height: 150%
+}
+
+
+h1{
+	margin: 0;
+	text-align: center;
+	color: grey;
+	background-color: black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+
+}
+
+a{color: red;
+}
+
+#bio-image{float: left;}
+#main-bio{float: left;}
+#contact{float: right;}
